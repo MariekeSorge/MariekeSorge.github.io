@@ -13,7 +13,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 ![Installation steps](assets/img/install-steps.gif)
 
 ### 1. Fork this project
-
+<div, markdown=1>
   <style type="text/css">
   body{
   font-size: 12pt;

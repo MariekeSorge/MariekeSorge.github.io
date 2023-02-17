@@ -22,10 +22,10 @@ author: Marieke Sorge
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Regression to the mean: "mstats.shinyapps.io/Regtomean/"
-    - Coin flip simulator: "mstats.shinyapps.io/CoinFlip/"
-    - Types of Errors: "mstats.shinyapps.io/ErrorTypes/"
-  Author's home: "mstats.shinyapps.io/Regtomean/"
+    #- Regression to the mean: "mstats.shinyapps.io/Regtomean/"
+    #- Coin flip simulator: "mstats.shinyapps.io/CoinFlip/"
+    #- Types of Errors: "mstats.shinyapps.io/ErrorTypes/"
+  #Author's home: "mstats.shinyapps.io/Regtomean/"
     
 
 ################
@@ -63,7 +63,7 @@ social-network-links:
   linkedin: mariekesorge
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-  snapchat: "mstats.shinyapps.io/Regtomean/"
+  #snapchat: "mstats.shinyapps.io/Regtomean/"
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888

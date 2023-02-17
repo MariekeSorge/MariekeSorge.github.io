@@ -21,10 +21,12 @@ author: Marieke Sorge
 
 navbar-links:
   About Me: "aboutme"
-  Shiny Apps:
+  Resources:
     - Regression to the mean: "https://mstats.shinyapps.io/Regtomean/"
     - Coin flip simulator: "https://mstats.shinyapps.io/CoinFlip/"
     - Types of Errors: " https://mstats.shinyapps.io/ErrorTypes/"
+  #Author's home: "https://deanattali.com"
+    
 
 ################
 # --- Logo --- #

@@ -20,4 +20,5 @@ This app enables a demonstration of regression to the mean for a normal distribu
 [Regression to the Mean](https://mstats.shinyapps.io/Regtomean/)
 ### Central Limit theorem simulator 
 This app enables a demonstration of the Central Limit theorem. 
+
 [Central Limit theorem simulator]( https://dmostatsbasic.shinyapps.io/CLTSimulator/)

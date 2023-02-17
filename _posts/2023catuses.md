@@ -2,7 +2,7 @@
 layout: post
 title: Learning how to generate posts
 subtitle: by Marieke Sorge
-cover-img: 
+cover-img: /assets/img/thumb.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]

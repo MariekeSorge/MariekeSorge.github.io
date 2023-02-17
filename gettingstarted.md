@@ -1,3 +1,10 @@
+---
+layout: default
+---
+
+
+
+
 # Build your website in 3 steps
 
 There's a very easy way to use this theme, and there's a hard way. For most people (including myself!), the easy route is recommended. If you're an advanced user and want to tinker with the hard way (using ruby gems), then [skip the easy way](https://github.com/daattali/beautiful-jekyll#the-hard-way-using-ruby-gems) if you know what you're doing.
@@ -173,66 +180,7 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
-###
-          ###  ADD THESE ELEMENTS TO CSS STYLE SHEET
-          ###
-          ###  CSS RULES:
-          ###
-          ###  body {...}  applies to everything in body
-          ###  body p {...}  only paragraphs in body
-          ###  
-          ###  .pretty-text {...} references a class
-          ###  <div class="pretty-text">
-          ###
-          ###  #ryan {...} references an id
-          ###  <div id="ryan">
-          ###
-
-
-
-               <style>
-
-               .gs-section-01 {
-                  margin-top: 100px;
-                  margin-bottom: 100px;
-                  padding-left: 30px;
-                  padding-right: 30px;
-                  text-align: justify;
-               }
-
-               .pretty-text p {
-                   line-height: 1.8
-               }
-
-               .pretty-text h1 {
-                   color: darkred;
-                   font-size: 40px;
-                }
-
-               .pretty-text h2 {
-                   color: darkred;
-                   font-size: 30px;
-                   margin-top: 60px;
-                }
-
-                .pretty-text img {
-                   border: 1px solid #ddd;
-                   border-radius: 8px;
-                   padding: 5px;
-                   width: 400px;
-                   display: block;
-                   margin-left: auto;
-                   margin-right: auto;
-                   width: 50%;
-                   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                               0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                }
-
-                .pretty-text img:hover {
-                   box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
-                }
-
-                </style>
+#
 <style>
 .gs-section-01 {
     color: red;

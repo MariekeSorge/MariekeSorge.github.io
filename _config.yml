@@ -47,16 +47,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "sorgemas@gmail.com"
+  email: sorgemas@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: https://github.com/MariekeSorge
+  #facebook: deanattali
+  github: MariekeSorge
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: https://www.linkedin.com/in/mariekesorge/
+  linkedin: https://www.linkedin.com/in/mariekesorge/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

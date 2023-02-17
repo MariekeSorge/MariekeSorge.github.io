@@ -21,7 +21,7 @@ author: Marieke Sorge
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  #Resources:
     #- Regression to the mean: "mstats.shinyapps.io/Regtomean/"
     #- Coin flip simulator: "mstats.shinyapps.io/CoinFlip/"
     #- Types of Errors: "mstats.shinyapps.io/ErrorTypes/"
@@ -70,7 +70,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  telegram: Regtomean
+  telegram: /mstats.shinyapps.io/Regtomean
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID

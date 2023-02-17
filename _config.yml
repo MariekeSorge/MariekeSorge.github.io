@@ -53,7 +53,7 @@ round-avatar: true
 social-network-links:
   email: sorgemas@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
+  facebook: "mstats.shinyapps.io/ErrorTypes/"
   github: MariekeSorge
   #twitter: daattali
   #patreon: DeanAttali
@@ -71,7 +71,7 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
   telegram: /mstats.shinyapps.io/Regtomean
-#  calendly: yourname
+  calendly: "mstats.shinyapps.io/CoinFlip/"
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar

@@ -25,7 +25,7 @@ navbar-links:
     #- Regression to the mean: "mstats.shinyapps.io/Regtomean/"
     #- Coin flip simulator: "mstats.shinyapps.io/CoinFlip/"
     #- Types of Errors: "mstats.shinyapps.io/ErrorTypes/"
-  #Author's home: "mstats.shinyapps.io/Regtomean/"
+  Shiny Apps: "/Shinyapps/"
     
 
 ################

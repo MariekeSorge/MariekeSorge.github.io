@@ -22,7 +22,7 @@ author: Marieke Sorge
 navbar-links:
   About Me: "aboutme"
   Resources:
-  Shiny Apps: "https://deanattali.com"
+  Shiny Apps: https://mstats.shinyapps.io/
 
 ################
 # --- Logo --- #

@@ -3,7 +3,8 @@ layout: page
 title: Shiny Apps
 subtitle: 
 ---
-Here  you can find  links to the R Shiny apps I have developed to supplement teaching statistical concepts.
+##Introduction
+Here  you can find  links to the R Shiny apps I have developed to supplement teaching statistical concepts. I will continue to add features to improve their capabilities and utility. 
 
 
 ### Error Types

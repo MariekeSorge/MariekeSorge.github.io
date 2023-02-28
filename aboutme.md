@@ -17,4 +17,4 @@ I am an early career statistician currently living in Albuquerque, New Mexico. I
 ### Here are my animals:
 <p align="center">
 <img src= "assets/img/freddie.PORTRAIT.jpg"  width="300" height="400">  <img src= "assets/img/maggie.PORTRAIT.jpg"  width="300" height="400">
-</p>
+ </p>

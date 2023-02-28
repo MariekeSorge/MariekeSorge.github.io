@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 ![This is me](/assets/img/AirBrush_20220309170137.jpg)
-<img src= "/assets/img/AirBrush_20220309170137.jpg"  width="300" height="600">
+<img src= "/assets/img/AirBrush_20220309170137.jpg"  width="200" height="300">
 My name is Marieke Sorge. 
 
 ### My story
@@ -13,7 +13,8 @@ I am an early career statistician currently living in Albuquerque, New Mexico. I
 
 
 <img src= "assets/img/freddie.PORTRAIT.jpg"  width="200" height="300">
-This is Maggie.
-
-<img src= "assets/img/maggie.PORTRAIT.jpg"  width="200" height="300">
+This is Maggie. <img src= "assets/img/maggie.PORTRAIT.jpg"  width="200" height="300">
 This is Freddie. 
+This is Maggie.           |  This is Freddie
+:-------------------------:|:-------------------------:
+<img src= "assets/img/freddie.PORTRAIT.jpg"  width="200" height="300">  |  <img src= "assets/img/maggie.PORTRAIT.jpg"  width="200" height="300">

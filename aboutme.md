@@ -13,5 +13,4 @@ I am an early career statistician currently living in Albuquerque, New Mexico. I
 
 <p align="center">
 <img src= "assets/img/freddie.PORTRAIT.jpg"  width="200" height="300">  <img src= "assets/img/maggie.PORTRAIT.jpg"  width="200" height="300">
-This is Maggie. This is Freddie. 
 </p>

@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: 
 ---
-![This is me](/assets/img/AirBrush_20220309170137.jpg)
+![This is me](/assets/img/AirBrush_20220309170137.jpg =250x250)
 My name is Marieke Sorge. 
 
 ### My story

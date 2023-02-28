@@ -14,6 +14,6 @@ Here  you can find  links to the R Shiny apps I have developed to supplement tea
 ### Regression to the Mean
 
 [Regression to the Mean](https://mstats.shinyapps.io/Regtomean/) enables a demonstration of regression to the mean for a normal distribution.  
-### Central Limit theorem simulator 
+### Central Limit Theorem Simulator 
 
 [Central Limit theorem simulator]( https://dmostatsbasic.shinyapps.io/CLTSimulator/) enables a demonstration of the Central Limit theorem. 

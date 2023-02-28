@@ -1,6 +1,6 @@
 ---
 layout: default
-title: sunflowers
+title: Sunflowers
 subtitle: by Marieke Sorge
 cover-img: /assets/img/sunflower.jpg
 thumbnail-img: /assets/img/sunflower.jpg

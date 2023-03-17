@@ -12,7 +12,7 @@ Here  you can find  links to the R Shiny apps I have developed to supplement tea
 [Central Limit theorem simulator]( https://dmostatsbasic.shinyapps.io/CLTSimulator/) enables a demonstration of the Central Limit theorem. 
 
 ### Probability Tree Generator 
-[Probability Tree Generator]https://mstats.shinyapps.io/probtree/ allows a user to generate probability trees with conditional probabilities for two dependent events. The user can choose the number of splits and the probability of the events. 
+[Probability Tree Generator](https://mstats.shinyapps.io/probtree/) allows a user to generate probability trees with conditional probabilities for two dependent events. The user can choose the number of splits and the probability of the events. 
 
 ### Error Types
 [Error Types](https://mstats.shinyapps.io/ErrorTypes/) shows the relationship between Type I Type II errors and power for a variety of user-inputed scenarios. 

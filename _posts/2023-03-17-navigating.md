@@ -1,11 +1,11 @@
- ---
+---
 layout: default
-title: Navigating my Website
+title: Navigating My Website
 subtitle: by Marieke Sorge
 cover-img: /assets/img/DSCF6494.JPG
 thumbnail-img: /assets/img/DSCF6494.JPG
 share-img: /assets/img/DSCF6494.JPG
-tags: [navigation, backgroung]
+tags: [books, test]
 ---
  
  ## This website serves as:  

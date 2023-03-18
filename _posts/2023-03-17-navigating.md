@@ -9,6 +9,6 @@ tags: [books, test]
 ---
  
  ## This website serves as:  
-A place to keep and share creative writing samples</li>
-A way to practice/learn markdown and html</li>
-Best of all a place to house the R Shiny apps I develop. Check out [Shiny Apps]("https://mariekesorge.github.io/Shinyapps/")
+*A place to keep and share creative writing samples
+*A way to practice/learn markdown and html
+*Best of all a place to house the R Shiny apps I develop. Check out [Shiny Apps]("https://mariekesorge.github.io/Shinyapps/")

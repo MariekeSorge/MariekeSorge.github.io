@@ -2,9 +2,9 @@
 layout: default
 title: Navigating my Website
 subtitle: by Marieke Sorge
-cover-img: 
-thumbnail-img: 
-share-img:
+cover-img: /assets/img/DSCF6494.JPG
+thumbnail-img: /assets/img/DSCF6494.JPG
+share-img: /assets/img/DSCF6494.JPG
 tags: [navigation, backgroung]
 ---
  

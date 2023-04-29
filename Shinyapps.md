@@ -21,3 +21,7 @@ Here  you can find  links to the R Shiny apps I have developed to supplement tea
 ### Regression to the Mean
 
 [Regression to the Mean](https://mstats.shinyapps.io/Regtomean/) enables a demonstration of regression to the mean for a normal distribution.  
+
+### Random Clustering 
+
+[Random Clustering](https://mstats.shinyapps.io/RandomClustering/) demonstrates how clusters can occur in random samples.  
